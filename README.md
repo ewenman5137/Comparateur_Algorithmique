@@ -42,3 +42,6 @@ Les algorithmes de tri suivants sont inclus dans ce projet :
 Lancez l'application en exécutant le fichier principal :
 ```sh
 python main.py
+
+
+![alt text](image.png)
